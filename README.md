@@ -6,6 +6,7 @@
 - 👨‍🎓 Currently in my third year in Computer Science at Memorial University
 - 👩‍💻 Looking to seek internships for Fall of 2023
 - 📩 Reach out to me via [Linkedin](https://www.linkedin.com/in/noorisl/) , [Email](mailto:nuruli@mun.ca)
+- 🛠 Take a look at my projects below at the 📌 pinned section!
 
 
 
